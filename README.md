@@ -1,1 +1,1 @@
-# passwordGenerator
+This password generator allows the user to quickly generate a unique line of characters based upon the prompts provided. 
