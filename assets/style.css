@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    padding: 50px;
+    background-color: yellowgreen;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    color: white;
+    background-color: grey;
+    font-family: monospace;
+}
+
+#passwordBox {
+    padding: 10px 150px;
+    border: 2px solid black;
+    background-color:white;
+    color: black;
+    text-align: center;
+}
+
+#generateButton {
+    margin-top: 10px;
+}
